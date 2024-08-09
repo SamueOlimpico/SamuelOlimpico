@@ -2,6 +2,6 @@
 
 Meu nome é Samuel
 
-Estou estudando na Alura 📘
-Estou me desenvolvendo em linguagem JavaScript 🖥️
-Utilizo esse espaço para minha organização e compartilhamneto de meus projetos de desenvolvimento.
+- Estou estudando na Alura 📘
+- Estou me desenvolvendo em linguagem JavaScript 🖥️
+- Utilizo esse espaço para minha organização e compartilhamneto de meus projetos de desenvolvimento.
